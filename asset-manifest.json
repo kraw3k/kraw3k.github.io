@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b032f6d3.chunk.js",
+    "main.js.map": "/static/js/main.b032f6d3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.702fa99f.chunk.js": "/static/js/2.702fa99f.chunk.js",
+    "static/js/2.702fa99f.chunk.js.map": "/static/js/2.702fa99f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6d250ee0f1f94f9b60c052c61f8a8133.js": "/precache-manifest.6d250ee0f1f94f9b60c052c61f8a8133.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/img_github.png": "/static/media/img_github.d37a870d.png",
+    "static/media/img_gmail.png": "/static/media/img_gmail.b495080c.png",
+    "static/media/photo_about_1.jpg": "/static/media/photo_about_1.dc767253.jpg",
+    "static/media/photo_about_2.jpg": "/static/media/photo_about_2.ce0fcaa2.jpg",
+    "static/media/photo_contact_1.jpg": "/static/media/photo_contact_1.d8482617.jpg",
+    "static/media/photo_contact_2.jpg": "/static/media/photo_contact_2.8efeeaa3.jpg",
+    "static/media/photo_skills_1.jpg": "/static/media/photo_skills_1.d294897d.jpg",
+    "static/media/photo_skills_2.jpg": "/static/media/photo_skills_2.74d97ecb.jpg"
+  }
+}
